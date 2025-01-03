@@ -150,11 +150,11 @@ const Projects = () => {
     setLessButton(false);
   };
 
-  const addButton = () => (
-    <Fab style={{ backgroundColor: "blue", color: "white" }} aria-label="add">
-      <AddIcon />
-    </Fab>
-  );
+  // const addButton = () => (
+  //   <Fab style={{ backgroundColor: "blue", color: "white" }} aria-label="add">
+  //     <AddIcon />
+  //   </Fab>
+  // );
   
 
   return (

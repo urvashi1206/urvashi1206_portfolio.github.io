@@ -28,7 +28,6 @@ const Education = () => {
     {
       cardTitle: "Fr. Conceicao Rodrigues College of Engineering",
       cardSubtitle: "BE in Electronics Engineering",
-      cardDetailedText: "CGPA: 9.52 (Best in Academics)",
       coursesHead: "Courses: ",
       cardDetailedText: [
         "Data Structures and Algorithms",

@@ -14,7 +14,8 @@ export default function About() {
         <Row>
           <Col lg={4} className="d-flex justify-content-center">
             <img
-              src={img}
+              src={img} 
+              alt="A portrait of Urvashi"
               height="100%"
               width="75%"
               style={{ borderRadius: "10%" }}
