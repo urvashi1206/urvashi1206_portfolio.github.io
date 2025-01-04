@@ -19,6 +19,10 @@ const Achievements = () => {
 
   const responsibilitiesData = [
     {
+      title: "Producer",
+      description: "Duolatera - Capstone Project for the team Drifters",
+    },
+    {
       title: "Marketing Head",
       description: "ABU ROBOCON Team, Fr. CRCE.",
     },

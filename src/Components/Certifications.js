@@ -8,13 +8,6 @@ import Card from "react-bootstrap/Card";
 const Certifications = () => {
     const items = [
         {
-            img: az_badge,
-            cardTitle: "Microsoft Certified: Azure Fundamentals",
-            cardText: "Issued on: <br/> May 30, 2022",
-            btnText: "See Credential",
-            btnUrl: "https://www.credly.com/badges/8d52a8d6-b0d4-4ae6-8c4d-b07c2a72d217/public_url",
-        },
-        {
             img: unity,
             cardTitle: "Unity Essentials Pathway",
             cardText: "Issued on: <br/> June 14, 2019",
@@ -22,11 +15,11 @@ const Certifications = () => {
             btnUrl: "https://www.credly.com/badges/32147826-8331-4fdb-adab-88361d2a84e6/public_url",
         },
         {
-            img: sf,
-            cardTitle: "SnowPro Core Certification",
-            cardText: "Issued on: <br/> February 14, 2022",
+            img: az_badge,
+            cardTitle: "Microsoft Certified: Azure Fundamentals",
+            cardText: "Issued on: <br/> May 30, 2022",
             btnText: "See Credential",
-            btnUrl: "https://drive.google.com/file/d/1_ANYCKZ7im7iwoCOkkXkWazYVIbvf32P/view?usp=drive_link",
+            btnUrl: "https://www.credly.com/badges/8d52a8d6-b0d4-4ae6-8c4d-b07c2a72d217/public_url",
         },
         {
             img: aws,
@@ -34,6 +27,13 @@ const Certifications = () => {
             cardText: "Issued on: <br/> July 25, 2021",
             btnText: "See Credential",
             btnUrl: "https://drive.google.com/file/d/1ZrlQy--6t-jBXbZmPBL1b0MYGPutDTOD/view?usp=drive_link",
+        },
+        {
+            img: sf,
+            cardTitle: "SnowPro Core Certification",
+            cardText: "Issued on: <br/> February 14, 2022",
+            btnText: "See Credential",
+            btnUrl: "https://drive.google.com/file/d/1_ANYCKZ7im7iwoCOkkXkWazYVIbvf32P/view?usp=drive_link",
         },
     ];
     return (

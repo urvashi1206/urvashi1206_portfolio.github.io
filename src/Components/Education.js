@@ -10,7 +10,7 @@ const Education = () => {
   const items = [
     {
       cardTitle: "Rochester Institute of Technology",
-      cardSubtitle: "MSc - Game Design and Development",
+      cardSubtitle: "MS - Game Design and Development",
       coursesHead: "Courses: ",
       cardDetailedText: [
         "Game Design",

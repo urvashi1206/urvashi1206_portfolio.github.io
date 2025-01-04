@@ -9,6 +9,8 @@ import {
   SiSpringboot,
   SiAmazonwebservices,
   SiDocker,
+  SiCplusplus,
+  SiOpengl,
 } from "react-icons/si";
 import { FaNodeJs, FaPython, FaJava, FaDatabase, FaGitAlt, FaJsSquare } from "react-icons/fa";
 import { BiLogoPostgresql } from "react-icons/bi";
@@ -33,14 +35,16 @@ const getRandomDuration = () => Math.random() * 2 + 1.5; // Random duration betw
 
 const Technologies = () => {
   const technologies = [
+    { Icon: SiSharp, label: "C#", color: "text-purple-500" },
+    { Icon: SiCplusplus, label: "C++", color: "text-blue-500" },
+    { Icon: SiUnity, label: "Unity", color: "text-gray-300" },
+    { Icon: SiUnrealengine, label: "Unreal", color: "text-blue-600" },
+    { Icon: SiOpengl, label: "OpenGL", color: "text-green-500" },
     { Icon: FaPython, label: "Python", color: "text-yellow-400" },
     { Icon: FaJava, label: "Java", color: "text-red-500" },
-    { Icon: SiSharp, label: "C#", color: "text-purple-500" },
     { Icon: FaJsSquare, label: "JavaScript", color: "text-yellow-400" },
     { Icon: SiOracle, label: "Oracle", color: "text-red-700" },
     { Icon: FaDatabase, label: "SQL / PL-SQL", color: "text-blue-500" },
-    { Icon: SiUnity, label: "Unity", color: "text-gray-300" },
-    { Icon: SiUnrealengine, label: "Unreal", color: "text-blue-600" },
     { Icon: SiSpringboot, label: "Spring Boot", color: "text-green-700" },
     { Icon: SiAmazonwebservices, label: "AWS", color: "text-orange-500" },
     { Icon: SiDocker, label: "Docker", color: "text-blue-600" },

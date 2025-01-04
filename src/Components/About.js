@@ -17,21 +17,21 @@ export default function About() {
               src={img} 
               alt="A portrait of Urvashi"
               height="100%"
-              width="75%"
+              width="100%"
               style={{ borderRadius: "10%" }}
             />
           </Col>
           <Col lg={8} pt={4} className="content">
             <br />
-            <h3 style={{ fontSize: "1.5rem" }}>Software Developer</h3>
+            <h3 style={{ fontSize: "1.5rem" }}>Gameplay Programmer</h3>
             <br />
             <p style={{ color: "rgb(255,255,255,0.7)", fontSize: "1.1rem" }}>
-              An aspiring Software/Game Developer passionate about crafting immersive systems and optimizing innovative solutions.
+            An aspiring Gameplay Programmer and Producer with a passion for creating immersive and interactive gaming experiences.
               <br />
               <br />
             </p>
             <p style={{ color: "rgb(255,255,255,0.9)", fontSize: "1.1rem" }}>
-              I'm a graduate student pursuing a Master of Science in Game Design and Development at Rochester Institute of Technology, with a GPA of 4.0. I have professional experience as a Data Engineer at Quantiphi, where I built ETL pipelines, automated workflows, and developed data-driven solutions. I also worked as a Gameplay Programmer and Producer, creating VR simulations and immersive experiences. Skilled in programming languages like Python, Java, and C#, I have hands-on experience in backend development, cloud computing, and game engines like Unity and Unreal Engine. At RIT, I also contribute to innovative gaming projects, pushing the boundaries of interactive experiences.
+              I'm a graduate student pursuing a Master of Science in Game Design and Development at Rochester Institute of Technology, with a GPA of 4.0.  I have professional experience as a Gameplay Programmer and Producer, developing VR simulations, multiplayer systems, and interactive experiences. Skilled in game engines like Unity and Unreal Engine, I bring expertise in programming, narrative design, and team collaboration. At RIT, I contribute to gaming projects that push the boundaries of interactive experiences.
               <br />
               <br />
               Consistently seeking challenging roles in organizations where I can leverage my skills to contribute to the company’s growth while continuously enhancing my expertise. I thrive in collaborative environments and actively seek mentorship and opportunities to grow professionally.
@@ -54,7 +54,7 @@ export default function About() {
                 <ul style={{ fontSize: "1rem" }}>
                   <li>
                     <i className="bi bi-chevron-right"></i> <strong>Degree:</strong>{" "}
-                    <span>MSc - Game Design and Development</span>
+                    <span>MS - Game Design and Development</span>
                   </li>
                   <li>
                     <i className="bi bi-chevron-right"></i> <strong>Email:</strong>{" "}
