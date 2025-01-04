@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.818ac2eb.css",
+    "main.js": "/static/js/main.9c4f1250.js",
+    "static/js/453.5a04fe8b.chunk.js": "/static/js/453.5a04fe8b.chunk.js",
+    "static/media/urvashi_.jpg": "/static/media/urvashi_.cbc594f18baf3c9669cd.jpg",
+    "static/media/urvashi.jpg": "/static/media/urvashi.a6de7e80dbf555e43ac6.jpg",
+    "static/media/boxicons.svg": "/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/boxicons.eot": "/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/snowpro-core-certification.png": "/static/media/snowpro-core-certification.2665e45ba96bf6ecba9e.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.7d38a25801cfc2e01be2.woff",
+    "static/media/boxicons.woff2": "/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/unity-essentials-pathway.png": "/static/media/unity-essentials-pathway.e4b507d4425f5d067395.png",
+    "static/media/microsoft-certified-azure-fundamentals.png": "/static/media/microsoft-certified-azure-fundamentals.a0c0d53f590ae4074583.png",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.01c9cc54aa4917872f00.woff2",
+    "static/media/aws.png": "/static/media/aws.5f00915e93a3e44b852d.png",
+    "index.html": "/index.html",
+    "main.818ac2eb.css.map": "/static/css/main.818ac2eb.css.map",
+    "main.9c4f1250.js.map": "/static/js/main.9c4f1250.js.map",
+    "453.5a04fe8b.chunk.js.map": "/static/js/453.5a04fe8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.818ac2eb.css",
+    "static/js/main.9c4f1250.js"
+  ]
+}
