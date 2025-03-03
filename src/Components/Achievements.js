@@ -24,11 +24,11 @@ const Achievements = () => {
     },
     {
       title: "Marketing Head",
-      description: "IEEE-WIE Council, University of Mumbai, India",
+      description: "ABU ROBOCON Team, University of Mumbai, India",
     },
     {
       title: "Webmaster",
-      description: "IEEE-WIE Council, Fr. CRCE.",
+      description: "IEEE-WIE Council, University of Mumbai, India",
     },
   ];
 
