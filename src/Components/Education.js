@@ -26,8 +26,8 @@ const Education = () => {
       date: "2023 - Present",
     },
     {
-      cardTitle: "Fr. Conceicao Rodrigues College of Engineering",
-      cardSubtitle: "BE in Electronics Engineering",
+      cardTitle: "University of Mumbai",
+      cardSubtitle: "BE - Electronics Engineering",
       coursesHead: "Courses: ",
       cardDetailedText: [
         "Data Structures and Algorithms",

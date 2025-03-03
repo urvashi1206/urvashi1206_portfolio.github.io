@@ -24,6 +24,7 @@ export default function Hero() {
               <span className="typed">
                 <Typewriter
                   words={[
+                    "Game Developer",
                     "Gameplay Programmer",
                     "Producer",
                   ]}

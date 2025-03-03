@@ -23,10 +23,10 @@ export default function About() {
           </Col>
           <Col lg={8} pt={4} className="content">
             <br />
-            <h3 style={{ fontSize: "1.5rem" }}>Gameplay Programmer</h3>
+            <h3 style={{ fontSize: "1.5rem" }}>Game Developer</h3>
             <br />
             <p style={{ color: "rgb(255,255,255,0.7)", fontSize: "1.1rem" }}>
-            An aspiring Gameplay Programmer and Producer with a passion for creating immersive and interactive gaming experiences.
+            An aspiring Game Developer and Producer with a passion for creating immersive and interactive gaming experiences.
               <br />
               <br />
             </p>

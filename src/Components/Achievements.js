@@ -8,11 +8,11 @@ const Achievements = () => {
         "A Real-life Unity3D Application in IEEE International Conference on Computing, Communication, and Intelligent Systems.",
     },
     {
-      title: "Secured 3rd place for academic excellence",
+      title: "Secured 3rd place for academic excellence at FRCRCE - University of Mumbai, India",
       description: "",
     },
     {
-      title: "Secured 1st place in Fr. Conceicao Rodrigues Memorial Hackathon UNSCRIPT 2k20",
+      title: "Secured 1st place in Fr. Conceicao Rodrigues Memorial Hackathon UNSCRIPT 2k20, University of Mumbai, India",
       description: "",
     },
   ];
@@ -20,11 +20,11 @@ const Achievements = () => {
   const responsibilitiesData = [
     {
       title: "Producer",
-      description: "Duolatera - Capstone Project for the team Drifters",
+      description: "Duolatera - Capstone Project for the team Drifters at Rochester Institute of Technology, New York",
     },
     {
       title: "Marketing Head",
-      description: "ABU ROBOCON Team, Fr. CRCE.",
+      description: "IEEE-WIE Council, University of Mumbai, India",
     },
     {
       title: "Webmaster",
