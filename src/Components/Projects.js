@@ -316,7 +316,7 @@ const Projects = () => {
         return <li>{text}</li>;
       }),
       technologies: ["Unreal Engine", "C++", "Perforce", "HLSL", "RPC", "Trello", "Agile"],
-      videoUrl: "https://www.youtube.com/watch?v=jRAzf4K0xFw&ab_channel=Duolatera",
+      videoUrl: "https://www.youtube.com/embed/jRAzf4K0xFw?si=X2NFEVEYb5X-tqW5",
       links: [
         {
           url: "https://github.com/Drifters-MSGDD/Duolatera",
